@@ -6,5 +6,6 @@ Actualmente me encuentro aprendiendo los fundamentos de C++ y Phython.
 Contacto  
 eric0ang3l@gmail.com
 
-![c235a90c-7526-422a-a979-d2846b8955de](https://github.com/EricAngel1/EricAngel1/assets/150571186/e60a5c4a-cfed-4e1a-ad71-8d1a9d382808)
+![giphy](https://github.com/EricAngel1/EricAngel1/assets/150571186/ddebbfd3-66f6-4ed3-9b48-abfe041c4e10)
+
 
