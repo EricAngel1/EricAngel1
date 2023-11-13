@@ -1,4 +1,4 @@
-# Acerca de mi
+# Acerca de mí
 Hola, mi nombre es Eric Eduardo Angel Angel soy estudiante de la carrera ingeniería en computación.  
 Me interesa la programación y aspiro a ser un programador con mucha experiencia.  
 Actualmente me encuentro aprendiendo los fundamentos de C++ y Phython.  
