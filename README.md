@@ -6,6 +6,7 @@ Actualmente me encuentro aprendiendo los fundamentos de C++ y Phython.
 Contacto  
 eric0ang3l@gmail.com
 
+https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif  
 <!---
 EricAngel1/EricAngel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
